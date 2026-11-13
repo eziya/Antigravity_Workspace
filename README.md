@@ -1,3 +1,10 @@
 # Antigravity Workspace
 
-Workspace for Antigravity cloud VM environment.
+Antigravity 클라우드 환경 작업 공간입니다.
+
+## 📁 폴더 구조
+
+- **`output/`**: 최종 산출물(빌드 결과물, 배포 파일, 내보낸 데이터 등)을 보관하는 폴더
+- **`tmp/`**: 임시 작업 및 스크래치 파일들이 위치하는 폴더
+- **`docs/`**: 프로젝트 관련 문서 및 Markdown(`.md`) 파일들이 위치하는 폴더
+- **`scripts/`**: 실행 파일 및 자동화/실행용 스크립트들이 위치하는 폴더
